@@ -1,0 +1,19 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB Truss
+Abaqus Learning Edition 2022
+Begin Analysis Input File Processor
+09.03.2023 13:08:47
+Run pre.exe
+09.03.2023 13:08:49
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+09.03.2023 13:08:49
+Run standard.exe
+09.03.2023 13:08:50
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+09.03.2023 13:08:50
+Run SMASimUtility.exe
+09.03.2023 13:08:50
+End SIM Wrap-up
+Abaqus JOB Truss COMPLETED
